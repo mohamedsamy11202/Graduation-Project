@@ -9,6 +9,7 @@ entire RTL in Verilog, performed simulation and verification using QuestaSim, an
 for synthesis, floorplanning, placement and routing. TCL scripting was extensively used to automate 
 tool flows, configure constraints, and manage reports, ensuring consistent and repeatable results 
 across design stages. 
+
 • Key Highlights: 
 o Studied the MIPI I3C v1.1.1 standard in depth and extracted all protocol specifications manually to 
 define and implement the RTL architecture 
